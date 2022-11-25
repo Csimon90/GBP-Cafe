@@ -1,0 +1,5 @@
+C:\efa160\codingFoundations\assignments\GoldBadgeProject\Cafe\obj\Debug\net6.0\Cafe.csproj.AssemblyReference.cache
+C:\efa160\codingFoundations\assignments\GoldBadgeProject\Cafe\obj\Debug\net6.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\efa160\codingFoundations\assignments\GoldBadgeProject\Cafe\obj\Debug\net6.0\Cafe.AssemblyInfoInputs.cache
+C:\efa160\codingFoundations\assignments\GoldBadgeProject\Cafe\obj\Debug\net6.0\Cafe.AssemblyInfo.cs
+C:\efa160\codingFoundations\assignments\GoldBadgeProject\Cafe\obj\Debug\net6.0\Cafe.csproj.CoreCompileInputs.cache

@@ -1,6 +1,6 @@
 public class MenuInitializer
 {
-    static void Main() {Console.WriteLine("one day ill learn to type"); }
+    static void Main() {Console.WriteLine(""); }
     public MenuInitializer
     (int itemNumber, string itemName, string ingredientList, int price, MenuItems menuItems)
 
